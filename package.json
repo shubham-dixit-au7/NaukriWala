@@ -1,5 +1,5 @@
 {
-  "name": "NaukriWala",
+  "name": "NaukriLelo",
   "version": "1.0.0",
   "description": "this api is about jobs",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "SET NODE_ENV=production & node app.js",
     "dev": "nodemon app"
   },
-  "author": "\"Shubham Dixit\", \"Ashwin Kumar Singh\"",
+  "author": "Shubham Dixit Ashwin Kumar Singh",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
